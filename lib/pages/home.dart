@@ -1,7 +1,7 @@
 import 'package:animated_bottom_navigation_bar/animated_bottom_navigation_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_icons/flutter_icons.dart';
+import 'package:flutter_icons_null_safety/flutter_icons_null_safety.dart';
 import 'package:kermaneno/blocs/ads_bloc.dart';
 import 'package:kermaneno/blocs/category_bloc.dart';
 import 'package:kermaneno/blocs/notification_bloc.dart';
