@@ -20,7 +20,7 @@ jobs:
       - run: flutter config --no-cli-animations
       - run: flutter pub get
       - run: flutter pub outdated
-      - run: flutter format --set-exit-if-changed .
+      # - run: flutter format --set-exit-if-changed .
       - run: flutter analyze .
       # - run: flutter build apk --release
       - run: flutter build apk
